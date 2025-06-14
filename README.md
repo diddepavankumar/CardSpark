@@ -10,9 +10,11 @@
 
 ## Introduction
 
+
 # 🔥 CardSpark
 
 **CardSpark** is a smart flashcard generation and memorization tool designed to ignite your learning. Whether you're prepping for exams, brushing up on concepts, or just exploring new topics, CardSpark helps you **generate flashcards instantly** and **retain information effectively**.
+
 
 ## 🚀 Why CardSpark?
 
@@ -23,6 +25,7 @@ Learning doesn't have to be tedious. With CardSpark, you can:
 * 📚 **Stay organized** with topic-wise decks and progress tracking.
 * 🌍 Learn from anywhere — on any device.
 
+
 ## 🎯 Key Features
 
 * ⚡ Instant flashcard generation using AI
@@ -30,6 +33,7 @@ Learning doesn't have to be tedious. With CardSpark, you can:
 * ⏱️ Spaced repetition reminders
 * 📊 Progress tracking & analytics
 * 🌙 Dark mode for late-night study sessions
+
 
 ## 👩‍💻 Ideal For
 
